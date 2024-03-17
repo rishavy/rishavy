@@ -53,11 +53,13 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavy&theme=react&border_radius=10" alt="streak status" /></p>
+<!--     <p><img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavy&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p> -->
+<!--     <br> -->
+    
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavy&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="readme status" /></p>
+  <br>
    
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rishavy&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="readme status" /></p>
-  <br/>
-<!--   <p><img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavy&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavy&theme=react&border_radius=10" alt="streak status" /></p>
 </div>
 <hr>
 
