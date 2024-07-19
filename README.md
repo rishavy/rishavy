@@ -16,7 +16,8 @@
 <h3 align="center">📢 Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yadavrishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav Yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/1rishavyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="mailto:jr1yadav@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/120px-Gmail_Icon_%282013-2020%29.svg.png" alt="Rishav Yadav" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/1rishavyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a> -->
 </p>
 
 <br>
