@@ -11,9 +11,9 @@
 
 <!-- Subtitle -->
 <!-- <h3 align="center">A passionate Web developer from India </h3> -->
-<h3 align="center">A passionate Web developer </h3>
+<h3 align="center">A passionate Web developer 👨‍💻 </h3>
 
-<h3 align="center"> 👨‍💻 </h3>
+<!-- <h3 align="center"> 👨‍💻 </h3> -->
 <br>
 
 <!-- Connect with Me -->
