@@ -1,18 +1,22 @@
+<!-- Visitor Badge -->
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rishavy.rishavy) 
 
 <img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=rishavy.rishavy" />
 
-
+<!-- Header with Typing SVG -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RISHAV+YADAV;" />
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%">
 </h1>
 
-
-<h3 align="center">A passionate Web developer from India </h3>
+<!-- Subtitle -->
+<!-- <h3 align="center">A passionate Web developer from India </h3> -->
+<h3 align="center">A passionate Web developer </h3>
 
 <h3 align="center"> 👨‍💻 </h3>
 <br>
+
+<!-- Connect with Me -->
 <h3 align="center">📢 Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yadavrishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav Yadav" height="30" width="40" /></a>
@@ -22,6 +26,7 @@
 
 <br>
 
+<!-- Tech Languages and Tools -->
 <h3 align="center">🖥 Tech Languages <img height="15" width="17" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" alt="skills"> and ⚙ Tools:</h3>
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> </a>
@@ -52,8 +57,12 @@
 <hr>
 -->
 
+
+<!-- Stats -->
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
+
+<!-- snake eating my contributions --?
 <div align=center>
 <!--     <p><img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavy&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p> -->
 <!--     <br> -->
@@ -65,6 +74,8 @@
 </div>
 <hr>
 
+
+<!-- Profile Repo Info -->
 <!--
 **rishavy/rishavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
